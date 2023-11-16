@@ -27,4 +27,6 @@ Mine XMR and get paid in Torn (TRX)
 
 Mine XMR and get paid in XRP
 
-Download here: https://github.com/Nbeast97/XMRig-0-Dev-Fee-/releases/tag/v6.20.0
+WINDOWS X64 BIT ONLY!
+
+DOWNLOAD HERE: https://github.com/Nbeast97/XMRig-0-Dev-Fee-/releases/tag/v6.20.0
